@@ -1,0 +1,109 @@
+.bg-gradient {
+    height: 100vh;
+    width:100%;
+    background-image: linear-gradient(##0B2A08,black);
+    
+}
+
+.l4dposter{
+    margin-top:120px;
+    margin-right:350px;
+    margin-left:350px;
+}
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #0B2A08;
+    background-image: linear-gradient(#0B2A08,black);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.navbar {
+    overflow: hidden;
+    background-color: black;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+.logo{
+    margin-left:50px;
+
+}
+
+.navbar a {
+
+    float: right;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 20px 36px;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+.navbar a:hover {
+    background: #0c2203;
+    color: darkgray;
+}
+
+.main {
+    padding: 16px;
+    margin-top: 30px;
+    height: 1500px; /* Used in this example to enable scrolling */
+}
+
+.title {
+    color: white;
+    text-align: center;
+    font-family: 'Catamaran', sans-serif;
+    font-size:100px;
+    margin-bottom:-50px;
+    margin-top:-40px;
+}
+
+.desc {
+    color: white;
+    text-align: center;
+    font-family: 'Catamaran', sans-serif;
+    font-size:30px;
+    margin-bottom:-40px;
+}
+
+.descript {
+    color:white;
+    text-align:center;
+    font-family: 'Dosis', sans-serif;
+    font-size: 26px;
+
+}
+
+.about1 {
+    margin-top: 30px;
+}
+
+.descript1 {
+    color: white;
+    text-align: center;
+    font-family: 'Dosis', sans-serif;
+    font-size: 22px;
+}
+.title1 {
+    color: white;
+    text-align: center;
+    font-family: 'Catamaran', sans-serif;
+    font-size: 80px;
+    margin-bottom: -50px;
+    margin-top: -40px;
+}
+
+.survive {
+    float: left;
+    margin-left: 360px;
+    margin-bottom:40px;
+    display:flex;
+}
+.survtext{
+    color:white;
+    padding-left:35px;
+    padding-top:2px;
+}
